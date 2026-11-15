@@ -4,8 +4,6 @@
   --muted: #5f6368;
   --border: #e4e4e7;
   --link: #1d4ed8;
-  --placeholder-background: #fef3c7;
-  --placeholder-foreground: #78350f;
   color-scheme: light dark;
 }
 
@@ -16,8 +14,6 @@
     --muted: #a1a1aa;
     --border: #2e2e33;
     --link: #93b4ff;
-    --placeholder-background: #3f2d07;
-    --placeholder-foreground: #fde68a;
   }
 }
 
@@ -82,13 +78,6 @@ a {
 
 .languages {
   margin-top: 12px;
-}
-
-.placeholder {
-  background: var(--placeholder-background);
-  color: var(--placeholder-foreground);
-  border-radius: 4px;
-  padding: 0 4px;
 }
 
 footer {
